@@ -1,0 +1,10 @@
+{
+  "name": "google-service-account-nodejs",
+  "version": "1.0.0",
+  "description": "google service account json for server to server authentication",
+  "main": "generateAuthToken.js",
+  
+  "dependencies": {
+    "googleapis": "^92.0.0"
+  }
+}
